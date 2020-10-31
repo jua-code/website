@@ -1,0 +1,252 @@
+.pie{
+    background: linear-gradient(to right,#43cea2, #185a9d);
+    height: 217px;
+  
+}
+
+
+
+
+.pie h3{
+    text-align: left;
+    color: white;
+    font-family:serif;
+    margin-left: 50px;
+	transform: translateY(90px);
+    font-size: 45px;
+        
+}
+    
+.pie .par{
+     text-align: left;
+    color: white;
+	margin-left: 200px;
+	transform: translateY(-6px);
+}
+
+
+.pie .par2{
+    text-align: left;
+    color:white ;
+    margin-left: 206px;
+	transform: translateY(6px);
+	margin-right: 850px;
+    
+}
+
+
+.pie .par3{
+    text-align: center;
+    color: white;
+     margin-left: 996px;
+	transform: translateY(-86px);
+}
+
+
+.iconos{
+    text-align:center; 
+      margin-left: 206px;
+	transform: translateY(-66px);
+	margin-left: 1000px;
+}
+
+
+.iconos a{
+    text-decoration: none;
+    color: white;
+    margin-left:5px;
+    font-size: 24px;
+}
+
+
+.iconos a:hover{
+   
+    border-radius: 150px;
+    border-bottom: 3px solid #bfe6e6;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:536px){
+	
+	.pie{
+    background: linear-gradient(to right,#43cea2, #185a9d);
+    height: 417px;
+  
+}
+	
+	.pie h3{
+    text-align: left;
+    color: white;
+    font-family:serif;
+    margin-left: 50px;
+	transform: translateY(90px);
+    font-size: 45px;
+        
+}
+    
+.pie .par{
+     text-align: left;
+    color: white;
+	margin-left: 200px;
+	transform: translateY(-6px);
+}
+
+
+.pie .par2{
+    text-align: left;
+    color:white ;
+    margin-left:6px;
+	transform: translateY(6px);
+	margin-right: 70px;
+    
+}
+
+
+.pie .par3{
+    text-align: center;
+    color: white;
+     margin-left: 996px;
+	transform: translateY(-86px);
+}
+
+
+.iconos{
+    text-align:center; 
+      margin-left: 206px;
+	transform: translateY(-66px);
+	margin-left: 1000px;
+}
+
+
+.iconos a{
+    text-decoration: none;
+    color: white;
+    margin-left:5px;
+    font-size: 24px;
+}
+
+
+.iconos a:hover{
+   
+    border-radius: 150px;
+    border-bottom: 3px solid #bfe6e6;
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:936px){
+    
+    
+    .pie{
+    background: linear-gradient(to right, #141e30, #243b55);
+    height: 220px;
+    transform: translateY(70px);
+  
+}
+
+
+
+
+.pie h3{
+    text-align: center;
+    color: white;
+    font-family:serif;
+    transform: translateY(20px)
+}
+    
+.pie p{
+    text-align: center;
+    color: white;
+    transform: translateY(25px)
+}
+
+.iconos{
+    text-align:center; 
+     transform: translateY(40px);
+    
+}
+
+.iconos a{
+    text-decoration: none;
+    color: white;
+    margin-left:15px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.iconos a:hover{
+    
+     border-radius: 20px;
+    border-bottom: 3px solid #bfe6e6;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

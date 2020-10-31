@@ -1,0 +1,89 @@
+.pie{
+	 background: linear-gradient(to right,#000000, #434343);
+    height: 217px;
+	
+}
+
+
+.pie h3{
+	text-align: left;
+    color: white;
+    font-family:serif;
+    margin-left: 50px;
+	transform: translateY(90px);
+    font-size: 45px;
+	
+	
+	
+}
+
+
+
+.pie .par{
+	text-align: left;
+    color: white;
+	margin-left: 200px;
+	transform: translateY(-6px);
+
+}
+
+
+.pie .par2{
+	
+	text-align: left;
+    color:white ;
+    margin-left: 206px;
+	transform: translateY(6px);
+	margin-right: 850px;
+}
+
+
+.pie .par3{
+	  text-align: center;
+    color: white;
+     margin-left: 996px;
+	transform: translateY(-86px);
+	
+}
+
+
+
+
+
+.iconos{
+	 text-align:center; 
+      margin-left: 206px;
+	transform: translateY(-66px);
+	margin-left: 1000px;
+	
+	
+}
+
+
+
+
+
+.iconos a{
+	 text-decoration: none;
+    color: white;
+    margin-left:5px;
+    font-size: 24px;
+	
+	
+}
+
+
+.iconos a:hover{
+   
+    border-radius: 150px;
+    border-bottom: 3px solid #bfe6e6;
+}
+
+
+
+
+
+
+
+ 
+
